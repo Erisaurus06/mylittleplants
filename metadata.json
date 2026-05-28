@@ -1,0 +1,6 @@
+{
+  "name": "My Little Plant",
+  "description": "A beautifully detailed catalog and care guide for botany lovers, with customized plant categories (edible, poisonous, medicinal, trees) and a daily feeding scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

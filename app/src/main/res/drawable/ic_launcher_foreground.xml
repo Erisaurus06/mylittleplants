@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- A beautiful, minimalist custom sprout silhouette to represent My Little Plant -->
+    <group>
+        <!-- Soil Base / Curved Aesthetic Arc -->
+        <path
+            android:fillColor="#4D3B2C"
+            android:pathData="M24,84 C38,89 70,89 84,84 C80,78 28,78 24,84 Z" />
+
+        <!-- Seedling Main Stem -->
+        <path
+            android:fillColor="#388E3C"
+            android:pathData="M54,82 C53,65 52,50 54,36"
+            android:strokeWidth="4"
+            android:strokeColor="#81C784"
+            android:strokeLineCap="round"/>
+
+        <!-- Left Leaf curving elegantly -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M53,52 C44,48 30,52 28,64 C32,71 45,70 53,58 Z" />
+
+        <!-- Right Leaf curving elegantly -->
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M55,42 C64,38 78,42 80,54 C76,61 63,60 55,48 Z" />
+
+        <!-- Delicate top seed-bud leaf -->
+        <path
+            android:fillColor="#C8E6C9"
+            android:pathData="M54,34 C51,28 54,20 54,20 C54,20 57,28 54,34 Z" />
+    </group>
+</vector>
